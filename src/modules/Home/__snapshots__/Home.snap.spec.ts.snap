@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App.vue component matches snapshot for default view 1`] = `
+<v-layout-stub tag="div">
+  <v-flex-stub tag="div" xs10="" sm2="" offset-sm5="">
+    <v-card-stub tag="div">
+      <v-img-stub aspectratio="2.75" src="https://media.licdn.com/dms/image/C4D0BAQGe0QkrWz6VIQ/company-logo_200_200/0?e=2159024400&amp;v=beta&amp;t=E8D4ycI_q4_cr9qGS88OWyZ8diZcgV0PtbqsNpz2nOE" position="center center" transition="fade-transition" class="image"></v-img-stub>
+      <v-card-title-stub primarytitle="true">
+        <div>
+          <h3 class="headline mb-0">Career Paths Project</h3>
+        </div>
+      </v-card-title-stub>
+      <v-card-actions-stub>
+        <v-btn-stub color="blue" activeclass="v-btn--active" tag="button" flat="true" type="button">Button</v-btn-stub>
+        <v-btn-stub color="blue" activeclass="v-btn--active" tag="button" flat="true" type="button">Button</v-btn-stub>
+      </v-card-actions-stub>
+    </v-card-stub>
+  </v-flex-stub>
+</v-layout-stub>
+`;
